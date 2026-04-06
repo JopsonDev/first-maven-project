@@ -4,5 +4,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("hello world");
         System.out.println("hello world twice");
+        System.out.println("wait wait wait... Bro loves potatoes");
     }
 }
